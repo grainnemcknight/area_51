@@ -17,4 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 
 Section 2 Notes: https://docs.google.com/document/d/1nMuBCdCfTG1kNhTToYIlWihg45snkzwTSN2irggn-bs/edit?usp=sharing 
+
 Section 3 Notes: https://docs.google.com/document/d/15EiW2Sy5yWpSNgyFcKzNePg_y8uWvPzhsvrKzMT8VJ8/edit?usp=sharing 
